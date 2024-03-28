@@ -17,3 +17,5 @@ std::cout << result.get() << std::endl;
 ```
 
 2024-3-27 增加注释
+
+[原仓库](https://github.com/progschj/ThreadPool)
